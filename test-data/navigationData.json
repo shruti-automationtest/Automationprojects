@@ -1,0 +1,17 @@
+{
+  "trending": ["Bestsellers", "New Releases", "Movers and Shakers"],
+  "Digital Content and Devices": ["Echo & Alexa", "Fire TV"],
+  "Shop by Category": {
+    "main": ["Mobiles, Computers", "Men's Fashion", "Books"],
+    "BooksSubcategories": [
+      "Action & Adventure", "Arts, Film & Photography", "Biographies, Diaries & True Accounts",
+      "Business & Economics", "Children's Books", "Comics & Mangas", "Computers & Internet",
+      "Crafts, Hobbies & Home", "Crime, Thriller & Mystery", "Engineering", "Exam Preparation",
+      "Health, Family & Personal Development", "Health, Fitness & Nutrition", "Historical Fiction",
+      "History", "Humour", "Language, Linguistics & Writing", "Law", "Literature & Fiction",
+      "Maps & Atlases", "Medicine and Health Sciences Textbooks", "Politics", "Reference",
+      "Religion & Spirituality", "Romance"
+    ],
+    "TargetCategory": "History"
+  }
+}
